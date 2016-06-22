@@ -4,14 +4,14 @@ Tips and practical examples, from the [CatsWhoCode post](http://www.catswhocode.
 
 ## Table of Contents
 
-* [Listening for Document Ready](#listening-for-document-ready)
-* [Adding Event Listeners](#adding-event-listeners)
-* [Selecting Elements](#selecting-elements)
-* [Using Ajax](#using-ajax)
-* [Adding and Removing Classes](adding-and-removing-classes)
-* [Fade In](#fade-in)
-* [Hiding and Showing Elements](#hiding-and-showing-elements)
-* [DOM Manipulation](#dom-manipulation)
+1. [Listening for Document Ready](#listening-for-document-ready)
+1. [Adding Event Listeners](#adding-event-listeners)
+1. [Selecting Elements](#selecting-elements)
+1. [Using Ajax](#using-ajax)
+1. [Adding and Removing Classes](adding-and-removing-classes)
+1. [Fade In](#fade-in)
+1. [Hiding and Showing Elements](#hiding-and-showing-elements)
+1. [DOM Manipulation](#dom-manipulation)
 
 
 ### Listening for Document Ready
