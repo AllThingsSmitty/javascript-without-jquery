@@ -16,7 +16,7 @@ Tips and practical examples, from the [CatsWhoCode post](http://www.catswhocode.
 
 ### Listening for Document Ready
 
-A page can't be manipulated safely until the document is "ready". For that reason, we developers have taken the habit to wrap all of our JS code inside the jQuery $(document).ready() function:
+A page can't be manipulated safely until the document is "ready". For that reason, we developers have taken the habit to wrap all of our JS code inside the jQuery `$(document).ready()` function:
 
 ```javascript
 $(document).ready(function () {
@@ -86,7 +86,7 @@ document.querySelectorAll('.myElement');
 document.querySelectorAll('div');
 
 // Children
-$('#myParent').children();
+document.querySelectorAll('myParent').childNodes;
 
 // Complex selecting
 document.querySelectorAll('article#first p.summary');
@@ -95,7 +95,7 @@ document.querySelectorAll('article#first p.summary');
 
 ### Using Ajax
 
-As most of you know, Ajax is a set of technologies allowing you to create asynchronymous web applications. jQuery have a set of useful methods for Ajax, including `get()` as shown below:
+As most of you know, Ajax is a set of technologies allowing you to create asynchronymous web applications. jQuery has a set of useful methods for Ajax, including `get()` as shown below:
 
 ```javascript
 $.get('ajax/test.html', function (data) {
