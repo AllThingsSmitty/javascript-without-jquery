@@ -8,7 +8,7 @@ Tips and practical examples, from the [CatsWhoCode post](http://www.catswhocode.
 1. [Adding Event Listeners](#adding-event-listeners)
 1. [Selecting Elements](#selecting-elements)
 1. [Using Ajax](#using-ajax)
-1. [Adding and Removing Classes](adding-and-removing-classes)
+1. [Adding and Removing Classes](#adding-and-removing-classes)
 1. [Fade In](#fade-in)
 1. [Hiding and Showing Elements](#hiding-and-showing-elements)
 1. [DOM Manipulation](#dom-manipulation)
